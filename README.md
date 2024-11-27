@@ -7,6 +7,14 @@
     </h1>
 </div>
 
+<h1>About me</h1>
+  
+- ⭐ currently working on databases apps
+- 💀 mostly working on private repositories
+- 👾 a systems engineer student
+
+
+
 ## Languages & Tools
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
