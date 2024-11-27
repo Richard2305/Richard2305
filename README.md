@@ -7,13 +7,15 @@
     </h1>
 </div>
 
+<br>
+
 <h1>About me</h1>
   
 - ⭐ currently working on databases apps
 - 💀 mostly working on private repositories
 - 👾 a systems engineer student
 
-
+<br>
 
 ## Languages & Tools
 <p>
@@ -28,6 +30,8 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </p>
+
+<br>
 
 ## IDEs & Softwares
 <p>
