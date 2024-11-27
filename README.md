@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AlexanderSND</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/Richard2305">Richard2305</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
+
