@@ -9,15 +9,15 @@
 
 <br>
 
-<h1>About me</h1>
+<h1>👾 About me</h1>
   
 - ⭐ currently working on databases apps
 - 💀 mostly working on private repositories
 - 👾 a systems engineer student
 
-<br>
+<br><br><br>
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -31,7 +31,7 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </p>
 
-## IDEs & Softwares
+## 🖥️ IDEs & Softwares
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
@@ -39,4 +39,17 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
 <img width="40px" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF" />
 <img width="40px" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" />
+<img width="40px" src="https://img.icons8.com/?size=100&id=baWsXpPZGhGu&format=png&color=000000" />
+</p>
+
+## 🕹️ Games that i play
+<p>
+<img width="40px" src="https://img.icons8.com/nolan/512/rocket-league.png" />
+<img width="40px" src="https://static.wikia.nocookie.net/logopedia/images/f/f8/Fortnite_Chapter_1_Season_1.jpg/revision/latest?cb=20230826201036" />
+<img width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Logo_of_Geometry_Dash.svg/640px-Logo_of_Geometry_Dash.svg.png" />
+<img width="40px" src="https://cdnb.artstation.com/p/assets/images/images/029/816/241/large/brice-laville-saint-martin-clash-royale-app-icon-2020.jpg?1598728017" />
+<img width="40px" src="https://img.icons8.com/?size=100&id=9xc8tSvhjr3z&format=png&color=000000" />
+<img width="40px" src="https://img.icons8.com/?size=100&id=Jxx1dXj7pETo&format=png&color=000000" />
+<img width="40px" src="https://play-lh.googleusercontent.com/npHAHmtZRgiMVEVg5pcncTIyqMW5MX--niR0L9PSzc5l8nuXS4GbU4w0yumQTururnc" />
+<img width="40px" src="https://pbs.twimg.com/profile_images/1859477373755981824/N7-FoPEi_400x400.jpg" />
 </p>
