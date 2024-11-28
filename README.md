@@ -15,7 +15,11 @@
 - 💀 mostly working on private repositories
 - 👾 a systems engineer student
 
-<br><br><br>
+<br>
+
+<div align="center">
+    <img src="https://i.postimg.cc/6QWMpmWC/Red-Hood.gif"  width="700px" height="400px" /> 
+</div>
 
 ## 🛠️ Languages & Tools
 <p>
