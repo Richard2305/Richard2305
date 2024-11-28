@@ -17,9 +17,9 @@
 
 <br>
 
-<div align="center">
-    <img src="https://i.postimg.cc/6QWMpmWC/Red-Hood.gif"  width="800px" height="400px" /> 
-</div>
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1pbsLEnMpy0o2uH2eDYghXojKPSRuMYZk" width="640px" alt="Muestra">
+</p>
 
 ## 🛠️ Languages & Tools
 <p>
