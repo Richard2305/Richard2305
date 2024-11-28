@@ -9,8 +9,8 @@
 
 <br>
 
-<h1>👾 About me</h1>
-  
+<h1> <img width="40px" src="https://media.tenor.com/2F5wQYTWrQMAAAAi/nikke.gif" /> About me <img width="40px" src="https://media.tenor.com/2F5wQYTWrQMAAAAi/nikke.gif" /></h1>
+ 
 - ⭐ currently working on databases apps
 - 💀 mostly working on private repositories
 - 👾 a systems engineer student
