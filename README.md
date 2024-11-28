@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-    <img src="https://i.postimg.cc/6QWMpmWC/Red-Hood.gif"  width="700px" height="400px" /> 
+    <img src="https://i.postimg.cc/6QWMpmWC/Red-Hood.gif"  width="800px" height="400px" /> 
 </div>
 
 ## 🛠️ Languages & Tools
@@ -46,7 +46,7 @@
 <img width="40px" src="https://img.icons8.com/?size=100&id=baWsXpPZGhGu&format=png&color=000000" />
 </p>
 
-## 🕹️ Games that i play
+## 🕹️ Games that i currently play
 <p>
 <img width="40px" src="https://img.icons8.com/nolan/512/rocket-league.png" />
 <img width="40px" src="https://static.wikia.nocookie.net/logopedia/images/f/f8/Fortnite_Chapter_1_Season_1.jpg/revision/latest?cb=20230826201036" />
