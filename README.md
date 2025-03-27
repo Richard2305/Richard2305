@@ -37,7 +37,7 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://iconos8.es/icon/GOHWqwnSE8Sv/docker)" />
+<img width="40px" src="https://img.icons8.com/?size=128&id=GOHWqwnSE8Sv&format=png" />
 </p>
 
 ## 🖥️ IDEs & Softwares
