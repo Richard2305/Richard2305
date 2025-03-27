@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-<img width="400px" src="[https://preview.redd.it/get-ready-for-doromas-png-musan-doro-v0-x0w9h6ty695c1.png?width=1080&crop=smart&auto=webp&s=03d68ced435e0c199d90959e5bb5e56ce24404db](https://tenor.com/utswIN9G2IX.gif)" />
+<img width="400px" src="https://preview.redd.it/drake-is-dreaming-about-random-nikke-pics-meme-v0-ba9301ylznbc1.jpeg?width=319&format=pjpg&auto=webp&s=f6f6ee33bc2f0d55e635b12ced5f06c6eb85ee2d" />
 </p>
     
 <br>
