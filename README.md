@@ -10,8 +10,6 @@
 <p align="center">
 <img width="300px" src="https://preview.redd.it/drake-is-dreaming-about-random-nikke-pics-meme-v0-ba9301ylznbc1.jpeg?width=319&format=pjpg&auto=webp&s=f6f6ee33bc2f0d55e635b12ced5f06c6eb85ee2d" />
 </p>
-
-<div class="sketchfab-embed-wrapper"> <iframe title="Smol Ame in an Upcycled Terrarium [HololiveEn]" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/490cecc249d242188fda5ad3160a4b24/embed"> </iframe> </div>
     
 <br>
 
